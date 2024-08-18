@@ -1,4 +1,3 @@
-
 class MockedDB:
     def __init__(self):
         self.data = [
