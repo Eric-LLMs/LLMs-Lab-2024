@@ -19,7 +19,7 @@ class DialogManager:
         self.session = [
             {
                 "role": "system",
-                "content": "You are a customer service representative for mobile data plans, your name is Xiao Gua. You can help users choose the most suitable data plan."
+                "content": "You are a customer service representative for mobile data plans, your name is Baymax. You can help users choose the most suitable data plan."
             }
         ]
         self.nlu = NLU(client, BussinessRequirement())
