@@ -1,6 +1,4 @@
-This repository contains projects, research, and educational resources focused on Large Language Models (LLMs).
-
-1. **nodes**
+ nodes
    A Survey on Hallucinations in Natural Language Generation: https://arxiv.org/abs/2202.03629
 
    How Hallucinations Snowball in Language Models: https://arxiv.org/abs/2305.13534
