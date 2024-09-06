@@ -1,0 +1,46 @@
+openapi: 3.1.0
+info:
+  title: Amap
+  description: Retrieve information related to Points of Interest (POI)
+  version: v1.0.0
+servers:
+  - url: https://restapi.amap.com/v5/place
+paths:
+  /text:
+    get:
+      description: Get the latitude and longitude coordinates of a POI based on its name
+      operationId: get_location_coordinate
+      parameters:
+        - name: keywords
+          in: query
+          description: POI name, must be in Chinese
+          required: true
+          schema:
+            type: string
+        - name: region
+          in: query
+          description: The region name where the POI is located, must be in Chinese
+          required: false
+          schema:
+            type: string
+      deprecated: false
+  /around:
+    get:
+      description: Search for POIs near a given coordinate
+      operationId: search_nearby_pois
+      parameters:
+        - name: keywords
+          in: query
+          description: Keywords for the target POI
+          required: true
+          schema:
+            type: string
+        - name: location
+          in: query
+          description: The longitude and latitude of the center point, separated by a comma
+          required: false
+          schema:
+            type: string
+      deprecated: false
+components:
+  schemas: {}
