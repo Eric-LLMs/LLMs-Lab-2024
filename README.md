@@ -4,7 +4,7 @@ This repository contains projects, research, and educational resources focused o
 
 ## 1. Task-oriented Dialogue System
 
-   Implementing a Multi-Turn, Task-Oriented Intelligent Customer Service System demo using the OpenAI API.
+   This demo implements a multi-turn, task-oriented intelligent customer service system using the OpenAI API.
    
 ## 2. Function-Calling
 
