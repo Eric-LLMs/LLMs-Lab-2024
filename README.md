@@ -11,7 +11,18 @@ This repository contains projects, research, and educational resources focused o
    - Stream: examples of Function Calling in Stream mode
 
 2. **RAG**
-   I implemented two different RAG (Retrieval-Augmented Generation) pipelines. The first one is based on Elasticsearch (ES), and the second one is based on a vector database, ChromaDb.
+   - This fold contians two different RAG (Retrieval-Augmented Generation) pipelines. The first one is based on Elasticsearch (ES), and the second one is based on a vector database, ChromaDb.
    - run_RAG_vector_database_pipline: RAG Pipeline based on ChromaDb Vector Database.
    - run_RAG_ES_pipline: RAG Pipeline based on Elasticsearch (ES).
-   
+
+## 2. RAG
+
+This folder contains two different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), and the second one is based on a vector database, ChromaDb.
+
+### Pipelines
+
+- **`run_RAG_vector_database_pipeline`**:  
+  RAG Pipeline based on ChromaDb Vector Database.
+
+- **`run_RAG_ES_pipeline`**:  
+  RAG Pipeline based on Elasticsearch (ES).
