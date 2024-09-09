@@ -32,9 +32,9 @@ if __name__ == "__main__":
     print(response + "\n")
 
     collection_name = "llama2_docs"
-    vector_db = MyVectorDBConnector(collection_name, llmmager.get_embeddings)  # 向量数据库
+    vector_db = MyVectorDBConnector(collection_name, llmmager.get_embeddings)  # vector database
 
-    # 1. 创建一个RAG机器人，内部调用vector database , 封装了 RAG过程
+    # 1. The RAG_Bot class includes an implementation of the Retrieval-Augmented Generation (RAG) process based on a vector database.
     bot = RAG_Bot(
         vector_db,
         llm_api=llmmager
