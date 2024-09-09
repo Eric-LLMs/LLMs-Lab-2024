@@ -2,15 +2,15 @@
 
 This repository contains projects, research, and educational resources focused on Large Language Models (LLMs).
 
-##1. Task-oriented Dialogue System
+## 1. Task-oriented Dialogue System
 
-    Implementing a Multi-Turn, Task-Oriented Intelligent Customer Service System demo using the OpenAI API.
+   Implementing a Multi-Turn, Task-Oriented Intelligent Customer Service System demo using the OpenAI API.
   
-##2. Function-Calling
+## 2. Function-Calling
 
 This folder contains various demos of Function Calling capabilities.
 
-###Function Calling Demos
+### Function Calling Demos
 
    - **`POI`**:
      Function Calling uses Amap's (Gaode Map) public API to retrieve information about hotels, restaurants, attractions, and other points of interest (POIs) near a specific location. In other words, it allows querying nearby POIs relative to a given POI.
