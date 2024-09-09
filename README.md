@@ -26,15 +26,28 @@ This folder contains various demos showcasing the capabilities of Function Calli
 
 This folder contains two different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), and the second one is based on a vector database, ChromaDb.
 
-Offline Steps:
-+--------------------+   +--------------------+   +--------------------+   +------------------------------+
-| Document Loading  | → | Document Splitting | → | Vectorization      | → | Insert into Vector Database |
-+--------------------+   +--------------------+   +--------------------+   +------------------------------+
+## Offline Steps
 
-Online Steps:
-+--------------------+   +--------------------+   +--------------------+   +-------------------------+   +---------------------------+   +---------------------+
-| Receive User Query | → | Vectorize User Query | → | Retrieve from Vector Database | → | Populate Prompt Template | → | Call LLM with Final Prompt | → | Generate Response |
-+--------------------+   +--------------------+   +--------------------+   +-------------------------+   +---------------------------+   +---------------------+
+```mermaid
+graph TD;
+    A[Document Loading] --> B[Document Splitting]
+    B --> C[Vectorization]
+    C --> D[Insert into Vector Database]
+
+graph TD;
+    E[Receive User Query] --> F[Vectorize User Query]
+    F --> G[Retrieve from Vector Database]
+    G --> H[Populate Prompt Template]
+    H --> I[Call LLM with Final Prompt]
+    I --> J[Generate Response]
+
+## Offline Steps
+
+![Offline Steps](path/to/offline_steps.png)
+
+## Online Steps
+
+![Online Steps](path/to/online_steps.png)
 
 
 ### Pipelines
