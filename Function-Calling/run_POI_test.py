@@ -1,3 +1,4 @@
+import os
 import json
 from openai import OpenAI
 from dotenv import load_dotenv, find_dotenv
@@ -10,7 +11,7 @@ _ = load_dotenv(find_dotenv())
 
 if __name__ == "__main__":
     client = OpenAI()
-    amap_key = "22b34521f11ce01f5744ffa28893cmef"
+    amap_key = os.getenv('AMAP_KEY')
 
     poi = POI(client, amap_key)
 
