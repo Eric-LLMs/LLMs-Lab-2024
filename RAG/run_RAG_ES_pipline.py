@@ -20,7 +20,7 @@ def es_init():
     return ElasticsearchOperations(ELASTICSEARCH_BASE_URL, ELASTICSEARCH_NAME, ELASTICSEARCH_PASSWORD)
 
 
-def LLMManager_init():
+def llmmager_init():
     """Initialize OpenAI operations object"""
     client = OpenAI()
     return LLMManager(client, "gpt-3.5-turbo-1106")
@@ -31,7 +31,7 @@ if __name__ == "__main__":
     index_name = "es_index_tmp_demo"
 
     ES = es_init()
-    client = LLMManager_init()
+    client = llmmager_init()
 
     # 0. Call LLM directly without RAG
     print(("===Prompt=== %s" % user_query))
