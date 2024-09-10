@@ -34,7 +34,8 @@ if __name__ == "__main__":
     client = llmmager_init()
 
     # 0. Call LLM directly without RAG
-    print(("===Prompt=== %s" % user_query))
+    print("===Prompt===")
+    print(user_query + "\n")
     response = client.get_completion(user_query)
 
     print("===Response without RAG===")
@@ -62,8 +63,9 @@ if __name__ == "__main__":
 #
 # *********************************************************************************
 
-
-# ===Prompt=== how many parameters does llama 2 have?
+# ===Prompt===
+# how many parameters does llama 2 have?
+#
 # ===Response without RAG===
 # Llama 2 has 3 parameters.
 # ===Reconstruct prompt with RAG===
@@ -75,20 +77,21 @@ if __name__ == "__main__":
 # Known Information:
 # Llama 2 comes in a range of parameter sizes—7B, 13B, and 70B—as well as pretrained and fine-tuned variations.
 #
-# 1. Llama 2, an updated version of Llama 1, trained on a new mix of publicly available data. We also increased the size
-# of the pretraining corpus by 40%, doubled the context length of the model, and adopted grouped-query attention
-# (Ainslie et al., 2023). We are releasing variants of Llama 2 with 7B, 13B, and 70B parameters.
-# We have also trained 34B variants, which we report on in this paper but are not releasing.§
+# 1. Llama 2, an updated version of Llama 1, trained on a new mix of publicly available data. We also increased the size of the pretraining corpus by 40%, doubled the context length of the model, and adopted grouped-query attention (Ainslie et al., 2023). We are releasing variants of Llama 2 with 7B, 13B, and 70B parameters. We have also trained 34B variants, which we report on in this paper but are not releasing.§
 #
 # User Question:
 # how many parameters does llama 2 have?
 #
-# If the known information does not contain the answer to the user's question, or if the known information is
-# insufficient to answer the user's question, please respond directly with "I cannot answer your question."
+# If the known information does not contain the answer to the user's question, or if the known information is insufficient to answer the user's question, please respond directly with "I cannot answer your question."
 # Please do not output information or answers that are not included in the known information.
 # Please answer the user's question in both English and Chinese.
 #
 # ===Response with RAG===
-# English: Llama 2 comes in a range of parameter sizes—7B, 13B, and 70B.
+# Sure, I can help with that.
 #
-# Chinese: Llama 2有一系列的参数大小—7B、13B和70B。
+# Llama 2 comes in a range of parameter sizes—7B, 13B, and 70B.
+#
+# In Chinese:
+# Llama 2有多少个参数？
+# 
+# Llama 2有一系列参数大小—7B、13B和70B。
