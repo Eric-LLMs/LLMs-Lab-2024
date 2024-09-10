@@ -38,9 +38,6 @@ class MyVectorDBConnector:
             name=collection_name
         )
 
-        # Create a collection
-        self.collection = chroma_client.get_or_create_collection(
-            name=collection_name)
         self.embedding_fn = embedding_fn
 
     def add_documents(self, documents, ids):
