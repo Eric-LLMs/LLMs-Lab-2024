@@ -42,7 +42,7 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
 ### Pipelines
 
 - **`run_RAG_vector_database_pipeline`**:  
-  RAG Pipeline based on ChromaDb Vector Database.
+  RAG Pipeline based on ChromaDB Vector Database.
 
 - **`run_RAG_ES_pipeline`**:  
   RAG Pipeline based on Elasticsearch (ES).
