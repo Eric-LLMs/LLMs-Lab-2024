@@ -16,17 +16,17 @@ class RAG_Bot:
         self.n_results = n_results
 
     def chat(self, user_query):
-        # 1. 检索
+        # 1. Retrieval
         search_results = self.vector_db.search(user_query, self.n_results)
 
-        # 2. 构建 Prompt
+         # 2. Construct Prompt
         prompt = self.llm_api.build_prompt(
             prompt_template=prompt_template, context=search_results['documents'][0], query=user_query)
 
         print("===Reconstruct prompt with RAG===")
         print(prompt + "\n")
 
-        # 3. 调用 LLM
+        # 3. Call LLM
         response = self.llm_api.get_completion(prompt)
         return response
 
@@ -53,7 +53,7 @@ if __name__== "__main__":
     collection_name = "llama2_docs"
     vector_db = MyVectorDBConnector(collection_name, llmmager.get_embeddings)
 
-    # 创建一个RAG机器人，内部调用vector database
+    # Create a RAG bot that internally calls the vector database, reconstructs the prompt
     bot = RAG_Bot(
         vector_db,
         llm_api=llmmager
