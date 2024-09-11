@@ -27,7 +27,7 @@ This folder contains various demos showcasing the capabilities of Function Calli
 
 ## 3. RAG
 
-This folder contains tree different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), the second one is based on a vector database, ChromaDB, and the last RAG Pipline show how to use data from tables in PDFs to perform RAG retrieval.
+This folder contains tree different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), the second one is based on a vector database, ChromaDB, and the last RAG Pipline show how to use data from tables in PDFs to implement RAG.  
   
 
 ### Pipelines
