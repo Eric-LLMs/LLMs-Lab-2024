@@ -47,7 +47,7 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
 - **`run_RAG_ES_pipeline`**:  
   RAG Pipeline based on Elasticsearch (ES).
 
-- **`RAG_pipeline_pdf_table_processing`**:
+- **`RAG_pipeline_pdf_table_processing`**:  
   How to use data from tables in PDFs in a project to perform RAG (Retrieval-Augmented Generation) retrieval.
   
   Offline: Convert PDF to images and extract tables from the images → Use GPT-4 to generate textual descriptions of the table images → Store the textual descriptions (documents), their embeddings (embeddings), and image URLs (metadatas) into the vector database.  
