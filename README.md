@@ -55,7 +55,7 @@ This folder contains tree different **RAG (Retrieval-Augmented Generation)** pip
 
 - **`RAG_pipeline_pdf_table_processing`**:  
     
-  In this RAG Pipline, use data from tables in PDFs to perform RAG retrieval.  
+  In this RAG Pipline, use data from tables in PDFs to implement RAG.    
   
   Offline:  
     
