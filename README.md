@@ -55,7 +55,7 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
 
 - **`RAG_pipeline_pdf_table_processing`**:  
     
-  In this RAG Pipline, use data from tables in PDFs in a project to perform RAG (Retrieval-Augmented Generation) retrieval.
+  In this RAG Pipline, use data from tables in PDFs to perform RAG (Retrieval-Augmented Generation) retrieval.  
   
   Offline:  
     
