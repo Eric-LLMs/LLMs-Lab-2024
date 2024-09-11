@@ -48,8 +48,8 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
   RAG Pipeline based on Elasticsearch (ES).
 
 - **`RAG_pipeline_pdf_table_processing`**:  
-  Offline: Extract data from tables in PDF files, embedding and then store it in a vector database.  
-  Online: RAG Pipeline based on ChromaDB Vector Database.   
+  Offline: Convert PDF to images and extract tables from the images → Use GPT-4 to generate textual descriptions of the table images → Store the textual descriptions (documents), their embeddings (embeddings), and image URLs (metadatas) into the vector database.  
+  Online: Receive a query and search the vector database → Retrieve table image URLs from search results (based on similarity between textual descriptions and the query) → Use GPT-4 to query and retrieve information from the table images.    
   The pipeline flowchart is as follows:    
   ![Alt text](RAG/data/table_rag.png)
 
