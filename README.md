@@ -38,13 +38,13 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
 
       The Offline Steps are as follows:  
 
-      | Document Loading      | Document Splitting | Vectorization | Insert into Vector Database |
+      | Document Loading      | Document Splitting  | Vectorization | Insert into Vector Database  |
       |-----------------------|---------------------|---------------|------------------------------|
       | →                     | →                   | →             | →                            |
       
       The Online Steps are as follows:  
       
-      | Receive User Query    | Vectorize User Query | Retrieve from Vector Database | Populate Prompt Template | Call LLM with Final Prompt | Generate Response |
+      | Receive User Query    | Vectorize User Query | Retrieve from Vector Database | Populate Prompt Template  | Call LLM with Final Prompt | Generate Response   |
       |-----------------------|----------------------|-------------------------------|---------------------------|----------------------------|---------------------|
       | →                     | →                    | →                             | →                         | →                          | →                   |  
 
