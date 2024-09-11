@@ -60,6 +60,7 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
   Online: Receive a query and search the vector database → Retrieve table image URLs from search results (based on similarity between textual descriptions and the query) → Use GPT-4 to query and retrieve information from the table images.
 
       
-  The pipeline flowchart is as follows:    
+  The pipeline flowchart is as follows:
+    
   ![Alt text](RAG/data/table_rag.png)
 
