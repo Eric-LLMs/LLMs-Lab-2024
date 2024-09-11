@@ -48,6 +48,8 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
   RAG Pipeline based on Elasticsearch (ES).
 
 - **`RAG_pipeline_pdf_table_processing`**:  
-  This project involves extracting data from tables in PDF files and storing it in a vector database. The extracted data is then used in a Retrieval-Augmented Generation (RAG) approach to query large models.   
+  Offline: Extract data from tables in PDF files, embedding and then store it in a vector database.  
+  Online: RAG Pipeline based on ChromaDB Vector Database.   
+  The pipeline flowchart is as follows:    
   ![Alt text](RAG/data/table_rag.png)
 
