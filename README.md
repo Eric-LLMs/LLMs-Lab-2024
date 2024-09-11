@@ -12,7 +12,7 @@ This folder contains various demos showcasing the capabilities of Function Calli
 
 ### Function Calling Demos
 
-   - **`POI`**:
+   - **`POI(Point of Interest)`**:
        
      This demo uses Amap's (Gaode Map) public API to retrieve information about hotels, restaurants, attractions, and other points of interest (POIs) near a specific location. It allows querying nearby POIs relative to a given point.
 
