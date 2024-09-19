@@ -12,7 +12,7 @@ This folder contains various demos showcasing the capabilities of Function Calli
 
 ### Function Calling Demos
 
-   - **`POI`**:
+   - **`POI(Point of Interest)`**:
        
      This demo uses Amap's (Gaode Map) public API to retrieve information about hotels, restaurants, attractions, and other points of interest (POIs) near a specific location. It allows querying nearby POIs relative to a given point.
 
@@ -27,20 +27,8 @@ This folder contains various demos showcasing the capabilities of Function Calli
 
 ## 3. RAG
 
-This folder contains two different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), and the second one is based on a vector database, ChromaDB.  
-
-- The Offline Steps are as follows:
-
-| Document Loading      | Document Splitting | Vectorization | Insert into Vector Database |
-|-----------------------|---------------------|---------------|------------------------------|
-| →                     | →                   | →             | →                            |
-
-- The Online Steps are as follows:
-
-| Receive User Query    | Vectorize User Query | Retrieve from Vector Database | Populate Prompt Template | Call LLM with Final Prompt | Generate Response |
-|-----------------------|----------------------|-------------------------------|---------------------------|----------------------------|---------------------|
-| →                     | →                    | →                             | →                         | →                          | →                   |  
-
+This folder contains tree different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), the second one is based on a vector database, ChromaDB, and the last RAG Pipline show how to use data from tables in PDFs to implement RAG.  
+  
 
 ### Pipelines
 
@@ -48,17 +36,35 @@ This folder contains two different **RAG (Retrieval-Augmented Generation)** pipe
     
   RAG Pipeline based on ChromaDB Vector Database.
 
+      The Offline Steps are as follows:  
+
+      | Document Loading      | Document Splitting  | Vectorization | Insert into Vector Database  |
+      |-----------------------|---------------------|---------------|------------------------------|
+      |          →            |        →            |      →        |               →              |
+      
+      The Online Steps are as follows:  
+      
+      | Receive User Query    | Vectorize User Query | Retrieve from Vector Database | Populate Prompt Template  | Call LLM with Final Prompt | Generate Response   |
+      |-----------------------|----------------------|-------------------------------|---------------------------|----------------------------|---------------------|
+      |           →           |           →          |                →              |                 →         |                →           |          →          |  
+
+
 - **`run_RAG_ES_pipeline`**:
     
   RAG Pipeline based on Elasticsearch (ES).
 
-- **`RAG_pipeline_pdf_table_processing`**:
+- **`RAG_pipeline_pdf_table_processing`**:  
     
-  How to use data from tables in PDFs in a project to perform RAG (Retrieval-Augmented Generation) retrieval.
+  In this RAG Pipline, use data from tables in PDFs to implement RAG.    
   
-  Offline: Convert PDF to images and extract tables from the images → Use GPT-4 to generate textual descriptions of the table images → Store the textual descriptions (documents), their embeddings (embeddings), and image URLs (metadatas) into the vector database.  
-  Online: Receive a query and search the vector database → Retrieve table image URLs from search results (based on similarity between textual descriptions and the query) → Use GPT-4 to query and retrieve information from the table images.
-
+  Offline:  
+    
+  Convert PDF to images and extract tables from the images → Use GPT-4 to generate textual descriptions of the table images → Store the textual descriptions (documents), their embeddings (embeddings), and image URLs (metadatas) into the vector database.
+    
+  Online:
+    
+  Receive a query and search the vector database → Retrieve table image URLs from search results (based on similarity between textual descriptions and the query) → Use GPT-4 to query and retrieve information from the table images.
+    
       
   The pipeline flowchart is as follows:
     
