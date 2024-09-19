@@ -1,0 +1,15 @@
+已知数据库结构为：
+```
+CREATE TABLE Courses (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    course_date DATE NOT NULL,
+    start_time TIME NOT NULL,
+    end_time TIME NOT NULL,
+    course_name VARCHAR(255) NOT NULL,
+    instructor VARCHAR(255) NOT NULL
+);
+```
+请将下述用户输入转为SQL表达式
+用户输入：{{$input}}
+
+直接输出SQL语句，不要评论，不要分析，不要Markdown标识!
