@@ -69,7 +69,7 @@ This folder contains tree different **RAG (Retrieval-Augmented Generation)** pip
   The pipeline flowchart is as follows:
     
   ![Alt text](RAG/data/table_rag.png)
+    
+## 4. Semantic-Kernel
 
-## 3. Semantic-Kernel
-
-The code examples in this folder, including **prompt templates**, **nested function calls**, **RAG**, and **using the Planner to implement agent development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
+The code examples in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
