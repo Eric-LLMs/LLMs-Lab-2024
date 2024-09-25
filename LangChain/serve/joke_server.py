@@ -12,7 +12,7 @@ app = FastAPI(
 )
 
 model = ChatOpenAI()
-prompt = ChatPromptTemplate.from_template("讲一个关于{topic}的笑话")
+prompt = ChatPromptTemplate.from_template("Talk a joke about {topic}")
 add_routes(
     app,
     prompt | model,
