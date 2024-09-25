@@ -73,3 +73,39 @@ This folder contains tree different **RAG (Retrieval-Augmented Generation)** pip
 ## 4. Semantic-Kernel
 
 The code examples in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
+
+## 5. LangChian
+
+#### The contents of the 'LangChain.ipynb' file located in the LangChain folder are detailed below:  
+
+### Core Components of LangChain
+
+- #### Model I/O Wrapping
+
+**LLMs**: Large Language Models  
+**Chat Models**: Generally based on LLMs but restructured for conversational purposes  
+**PromptTemplate**: Templates for prompt creation  
+**OutputParser**: Parses the output from models  
+
+  - #### Data Connection Wrapping  
+
+**Document Loaders**: Loaders for various file formats  
+**Document Transformers**: Common operations on documents such as splitting, filtering, translating, and extracting metadata  
+**Text Embedding Models**: Convert text into vector representations, useful for tasks like retrieval  
+**Vectorstores**: Stores for vectors (used in retrieval tasks)  
+**Retrievers**: Tools for retrieving vectors from storage  
+**RAG Pipline with Langchain**
+
+- #### Memory Wrapping
+
+**Memory**: Not physical memory; it manages "context", "history", or "memory" from a text perspective
+
+
+- #### Architecture Wrapping
+
+**Chain**: Implements a single function or a series of sequential functions    
+**Agent**: Automatically plans and executes steps based on user input, selecting the necessary tools for each step to achieve the desired task  
+**Tools**: Functions for calling external functionalities, such as Google search, file I/O, Linux shell, etc.    
+**Toolkits**: A set of tools designed to operate specific software, such as a toolkit for managing databases or Gmail    
+
+- #### Callbacks  
