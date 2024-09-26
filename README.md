@@ -103,7 +103,7 @@ The code examples in this folder, including **Prompt Templates**, **Nested Funct
 
 - #### Architecture Wrapping
 
-**Chain**: Implements a single function or a series of sequential functions    
+**Chain**: Implements a single function or a series of sequential functions, LangChain Expression Language (LCEL)   
 **Agent**: Automatically plans and executes steps based on user input, selecting the necessary tools for each step to achieve the desired task  
 **Tools**: Functions for calling external functionalities, such as Google search, file I/O, Linux shell, etc.    
 **Toolkits**: A set of tools designed to operate specific software, such as a toolkit for managing databases or Gmail    
