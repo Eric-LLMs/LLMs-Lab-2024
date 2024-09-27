@@ -1,4 +1,4 @@
-Sure! Here's the steps of running the project:
+The steps of running the project is as follows: 
 
 ## Step 1: Set up .env
 Configure the OPENAI_API_KEY in the .env file of the project with your own key.
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 #### Then input your question in the interface:
 🤖: How can I assist you?
 👨: What is the sales amount for September? (need to input yourself)
->>>>Round: 0<<<<
+ >>>>Round: 0<<<<
 
 #### Sample Questions:
 * What is the sales amount for September?
