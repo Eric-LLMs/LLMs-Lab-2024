@@ -1,0 +1,9 @@
+Your task is:
+{task_description}
+
+Below is your thought process and the results of interacting with tools and external resources.
+{short_term_memory}
+
+You have completed the task.
+Now please briefly summarize your final answer based on the above results.
+Directly provide the answer. No need to explain or analyze your thought process further.

@@ -1,0 +1,35 @@
+Your task is to analyze first, then generate code.
+
+Please analyze step by step based on the user's input:
+(1) Does the user's input depend on a condition that has not been explicitly assigned?
+(2) Do I need to make an assumption about the value of a certain variable?
+
+If I need to make an assumption about the value of a certain variable, please output directly:
+```python
+print("I need to know the value of ____ to generate the code. Please refine your query.") # Please replace ____ with the condition that needs to be assumed.
+```
+
+Otherwise, generate a piece of Python code that analyzes the contents of the specified file.
+
+The only libraries you can use include: Pandas, re, math, datetime, openpyxl. 
+Ensure your code only uses the above libraries; otherwise, your code will not run.
+
+The given file is: 
+{filename}
+
+Sample file content:
+{inspections}
+
+Your output Python code must be enclosed with markdown identifiers, as shown below:
+```python
+# example code
+print('hello world')
+```
+
+Ensure your code is runnable, with the filename hardcoded in the code.
+All constants in the code you generate must come from the information I provided or from the file itself. Do not fabricate any constants.
+If constants are missing, your code will not run. You can refuse to generate code, but do not generate fabricated code.
+Ensure that your generated code ultimately outputs the result using print (answering the user's question).
+
+User input:
+{query}

@@ -109,3 +109,6 @@ The code examples in this folder, including **Prompt Templates**, **Nested Funct
 **Toolkits**: A set of tools designed to operate specific software, such as a toolkit for managing databases or Gmail    
 
 - #### Callbacks  
+
+## 6. Agent
+The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.
