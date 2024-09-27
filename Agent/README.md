@@ -1,4 +1,4 @@
-Sure! Here's the translation:
+Sure! Here's the steps of running the project:
 
 ## Step 1: Set up .env
 Configure the OPENAI_API_KEY in the .env file of the project with your own key.
