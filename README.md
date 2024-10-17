@@ -111,7 +111,7 @@ The code examples in this folder, including **Prompt Templates**, **Nested Funct
 - #### Callbacks  
 
 ## 6. Agent
-The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.
+The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.  
 
-## 7. Fine-Tuning
-Studying fine-tuning of LLMs, working with LLM-related code, and reviewing papers and experiments on LLMs.
+## 7. Fine-Tuning  
+Studying fine-tuning of LLMs, working with LLM-related code, and reviewing papers and experiments on LLMs.  
