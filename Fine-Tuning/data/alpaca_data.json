@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Give three tips for staying healthy.",
+        "input": "",
+        "output": "1.Eat a balanced diet and make sure to include plenty of fruits and vegetables. \n2. Exercise regularly to keep your body active and strong. \n3. Get enough sleep and maintain a consistent sleep schedule."
+    },
+    {
+        "instruction": "What are the three primary colors?",
+        "input": "",
+        "output": "The three primary colors are red, blue, and yellow."
+    },
+    {
+        "instruction": "Describe the structure of an atom.",
+        "input": "",
+        "output": "An atom is made up of a nucleus, which contains protons and neutrons, surrounded by electrons that travel in orbits around the nucleus. The protons and neutrons have a positive charge, while the electrons have a negative charge, resulting in an overall neutral atom. The number of each particle determines the atomic number and the type of atom."
+    },
+    {
+        "instruction": "How can we reduce air pollution?",
+        "input": "",
+        "output": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the use of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individuals can do their part to reduce air pollution by reducing car use, avoiding burning materials such as wood, and changing to energy efficient appliances."
+    },
+    {
+        "instruction": "Describe a time when you had to make a difficult decision.",
+        "input": "",
+        "output": "I had to make a difficult decision when I was working as a project manager at a construction company. I was in charge of a project that needed to be completed by a certain date in order to meet the client\u2019s expectations. However, due to unexpected delays, we were not able to meet the deadline and so I had to make a difficult decision. I decided to extend the deadline, but I had to stretch the team\u2019s resources even further and increase the budget. Although it was a risky decision, I ultimately decided to go ahead with it to ensure that the project was completed on time and that the client\u2019s expectations were met. The project was eventually successfully completed and this was seen as a testament to my leadership and decision-making abilities."
+    },
+    {
+        "instruction": "Identify the odd one out.",
+        "input": "Twitter, Instagram, Telegram",
+        "output": "Telegram"
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/4",
+        "input": "4/16",
+        "output": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4."
+    },
+    {
+        "instruction": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+        "input": "",
+        "output": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. After much deliberation, he decided that he wanted to be an accountant and help the financially disadvantaged. He had always been good with numbers and enjoyed seeing the tangible results of his work. \n\nJohn enrolled in accounting courses and initially found it quite challenging. He had to learn multiple systems and regulations quickly, but he worked hard and eventually excelled in his studies. After a few years, John started working at an accounting firm in his city. He was eager to put his knowledge of taxes and accounting to use in a real-world setting.\n\nJohn loved his job, as it let him express his creativity in finding strategies to save his clients money. After a few years at the firm, he became a senior accountant and was asked to manage bigger and more challenging cases. He was now a respected figure in the financial industry, but he still remembers when he was just a recent college graduate, unsure of the direction in which his life would take him."
+    },
+    {
+        "instruction": "Render a 3D model of a house",
+        "input": "",
+        "output": "<nooutput> This type of instruction cannot be fulfilled by a GPT model."
+    },
+    {
+        "instruction": "Evaluate this sentence for spelling and grammar mistakes",
+        "input": "He finnished his meal and left the resturant",
+        "output": "He finished his meal and left the restaurant."
+    },
+    {
+        "instruction": "Given an item, suggest different ways for it to be recycled.",
+        "input": "Cardboard",
+        "output": "Cardboard can be recycled in a variety of ways, such as breaking it down and adding it to compost, making arts and crafts projects, turning it into packaging materials, or donating it to local charities."
+    },
+    {
+        "instruction": "A student needs to answer the question: what is the theme of the novel To Kill a Mockingbird?",
+        "input": "",
+        "output": "The main theme of To Kill a Mockingbird by Harper Lee is the coexistence of good and evil in the world and the importance of moral education. The novel explores themes of racial inequality, justice, prejudice, and courage."
+    },
+    {
+        "instruction": "Suggest a holiday destination for a family of 5 with a budget of $2000.",
+        "input": "",
+        "output": "I recommend exploring the vibrant cities of Spain for your family holiday. Spain has a lot to offer, from beautiful beaches to amazing cultural attractions. You can visit cities like Barcelona and Madrid for $2000, as there are many budget-friendly lodging options from hostels to Airbnbs."
+    },
+    {
+        "instruction": "Generate a positive phrase to describe a person.",
+        "input": "Person: My father",
+        "output": "My father is wise and compassionate."
+    },
+    {
+        "instruction": "Generate a story about a conflict between two siblings.",
+        "input": "",
+        "output": "Once upon a time there were two siblings, Julie and John. John was always the overachiever and Julie, the younger sibling, often felt inadequate and jealous of her brother. When Julie got an invitation to a party and her brother did not, she felt as though she'd finally one up on him. However, John was determined to attend the party and resorted to sneaking out of the house at night. He arrived at the party only to find that Julie had been the one that had received the invitation, and the two siblings got into a heated argument. In the end they came to the realisation that they were stronger together than apart and decided to support each other in the future."
+    },
+    {
+        "instruction": "Find the correct facts from the given list and delete the incorrect ones.",
+        "input": "The capital of India is Mumbai, California was the first state of USA, Apple is the symbol of Microsoft.",
+        "output": "The capital of India is New Delhi, California was the first state of USA, Apple is the symbol of Apple."
+    },
+    {
+        "instruction": "How many countries are part of UN?",
+        "input": "",
+        "output": "Currently, there are 193 countries that are part of the United Nations."
+    },
+    {
+        "instruction": "Suggest some activities that you might do on a vacation at the beach.",
+        "input": "",
+        "output": "At the beach, you can go swimming, surfing, play beach volleyball, boogie boarding, sunbathe, build sandcastles, explore tide pools, play Frisbee, go fishing, kayaking, and more. You can also take long walks along the beach and admire the wildlife. For those looking for a bit of adventure, parasailing is a popular activity. Alternatively, you can relax on the beach and read a book or watch the waves."
+    },
+    {
+        "instruction": "Name a flower with purple petals and white centers.",
+        "input": "",
+        "output": "The African daisy (Osteospermum ecklonis), also known as the blue-eyed daisy, is a flower with purple petals and white centers."
+    },
+    {
+        "instruction": "Organizing the items below into categories.",
+        "input": "Key, Pen, Pencil, Eraser",
+        "output": "Writing Utensils: Pen, Pencil, Eraser \nOther: Key"
+    },
+    {
+        "instruction": "Share a short story about a forgotten memory.",
+        "input": "",
+        "output": "Once upon a time there was a boy who had a sudden recollection of a forgotten memory. He remembered going to the beach with his family many years ago. He remembered the smell of salty air and the roar of the waves. It was so vivid he could almost taste the sea breeze. He smiled and hugged his family as they made sand castles, watched the sunset, and enjoyed the moment. But then the moment passed, and he was left with a forgotten memory that he would never forget again."
+    },
+    {
+        "instruction": "Create a 6th-grade level vocabulary quiz on the given word.",
+        "input": "Vivacious",
+        "output": "Q1: What does 'vivacious' mean?\nA1: Vivacious means lively and full of energy.\n\nQ2: What is an example of someone being vivacious?\nA2: An example of someone being vivacious is a lively dancer who is always full of energy and enthusiasm.\n\nQ3: How would you use 'vivacious' in a sentence?\nA3: She was the most vivacious person in the room, always managing to brighten up the atmosphere with her enthusiastic attitude."
+    },
+    {
+        "instruction": "Suggest a dish suitable for vegetarians.",
+        "input": "",
+        "output": "A delicious vegetarian dish could be Ratatouille. It is made of eggplant, zucchini, tomatoes, bell peppers, onions, garlic and herbs, simmered in a rich tomato sauce. It can be served with quinoa, couscous, or a crusty bread."
+    },
+    {
+        "instruction": "Invent a new recipe using five of the ingredients below.",
+        "input": "Sea salt, olive oil, fish, potatoes, tomatoes",
+        "output": "Fish and Potato Bake \u2013 a simple yet delicious dish! Preheat oven to 350\u00b0F. In a bowl, mix together potatoes, diced tomatoes, 1 tablespoon of olive oil, 1/2 teaspoon of sea salt, and 1/2 teaspoon of your favorite spices. Put the mixture in a casserole dish and top it with four fillets of your favorite fish. Drizzle with 1 tablespoon of olive oil and sprinkle with 1/2 teaspoon of sea salt. Bake for 35-45 minutes until the fish is cooked through and the potatoes are tender. Serve with your favorite side dish and enjoy!"
+    },
+    {
+        "instruction": "Distinguish between right and wrong in the given scenario.",
+        "input": "A student cheats on her test.",
+        "output": "Cheating on a test is wrong. It is an unethical action as it is not only unfair to the other students in the class who have worked hard to prepare for the test, but it also does not reflect the values of honesty and integrity."
+    },
+    {
+        "instruction": "Rewrite the given sentence using jargon pertaining to computer engineering.",
+        "input": "We need to construct a data storage system.",
+        "output": "We need to develop a relational database structure."
+    },
+    {
+        "instruction": "Connect the dots by inventing a realistic conversation between two people.",
+        "input": "Person 1: I'm so stressed out.\nPerson 2:",
+        "output": "Person 2: Why are you stressed out? Is there anything I can do to help?\nPerson 1: I've got this big project I need to finish, but I'm not sure where to start.\nPerson 2: Have you broken it down into smaller tasks? That always helps me stay on track.\nPerson 1: That's a great idea. I'll try that! Thanks for the suggestion. \nPerson 2: Anytime. Good luck!"
+    },
+    {
+        "instruction": "Estimate the cost of a one-way plane ticket from Los Angeles to New York City.",
+        "input": "",
+        "output": "The estimated cost of a one-way plane ticket from Los Angeles to New York City is around $220 to $360, depending on the airline and time of year."
+    },
+    {
+        "instruction": "Explain the physics behind the Doppler effect.",
+        "input": "",
+        "output": "The Doppler effect is a phenomenon in which the frequency of a wave is perceived to be different depending on the motion of the observer relative to the source of the wave. This effect is caused by the law of conservation of energy; when a source of waves and an observer move towards each other, the frequency seen by the observer is increased, while when they move away from each other the frequency seen is decreased. This effect is commonly seen in sound and light waves, leading to a change in pitch heard or a change in the color of light seen."
+    },
+    {
+        "instruction": "Determine the best option for investment.",
+        "input": "I have $20,000 and I want to invest in stocks.",
+        "output": "It is recommended to diversify your investments for optimal returns and less risk. With $20,000, you could invest in a combination of stocks, bonds, mutual funds, index funds, and exchange-traded funds (ETFs). Each of these options has different levels of risk and rewards, so it is important to understand the details of each option before committing to any investments."
+    },
+    {
+        "instruction": "Connect two pieces of information.",
+        "input": "Cell phone technology \nAI",
+        "output": "Cell phone technology has allowed us to leverage the power of AI, unlocking new capabilities and providing us with more efficient and personalized services."
+    },
+    {
+        "instruction": "Provide 2 examples of alliteration.",
+        "input": "",
+        "output": "- Silently slithering snakes\n- Puppies pouncing on plush pillows"
+    },
+    {
+        "instruction": "Explain the process of photosynthesis to me in your own words.",
+        "input": "",
+        "output": "Photosynthesis is a process that occurs in plants and other photosynthetic organisms, such as cyanobacteria, where light energy from the sun is absorbed and then converted into chemical energy in the form of carbohydrates, such as glucose. This process is important for producing the oxygen that we need to breathe as well as storing energy for the plant to use. The process takes place in the chloroplasts, which are specialized organelles in the plant. During photosynthesis, light energy is absorbed and broken down, and the resulting energy is then used to convert carbon dioxide into oxygen and organic compounds such as glucose. Water is also needed for the process and is usually taken up from the roots. The energy stored in the glucose molecules is then used by the plant to grow and create new cells."
+    },
+    {
+        "instruction": "Identify which of these objects is not a mineral.",
+        "input": "Garnet, Gold, Ceramic",
+        "output": "Ceramic is not a mineral."
+    },
+    {
+        "instruction": "Create a Python script that will calcuate the average of three numbers.",
+        "input": "",
+        "output": "def calculate_average(num1, num2, num3):\n    return (num1 + num2 + num3) / 3"
+    },
+    {
+        "instruction": "Given a list of elements, find the longest increasing sequence in the array",
+        "input": "5, 4, 3, 2, 7, 6, 1",
+        "output": "3, 2, 7, 6"
+    },
+    {
+        "instruction": "Given a sentence, delete any repeated words and make the sentence grammatically correct.",
+        "input": "This movie movie was so bad bad,",
+        "output": "This movie was so bad,"
+    },
+    {
+        "instruction": "Create a joke by combining two people\u2019s names.",
+        "input": "Anthony and Mark",
+        "output": "What do you call a joint venture between Anthony and Mark? Antharky!"
+    },
+    {
+        "instruction": "Given an integer n, find the nth Fibonacci number.",
+        "input": "8",
+        "output": "21"
+    },
+    {
+        "instruction": "What is the volume of a rectangular prism with dimensions 3, 4 and 5 meters?",
+        "input": "",
+        "output": "60 m3"
+    },
+    {
+        "instruction": "Compare the following two numbers: 72 and 29.",
+        "input": "",
+        "output": "72 is greater than 29."
+    },
+    {
+        "instruction": "Given a list of numbers, find the difference between the largest and smallest numbers.",
+        "input": "5, 8, 2, 9",
+        "output": "7"
+    },
+    {
+        "instruction": "Which year did the Great Recession end?",
+        "input": "",
+        "output": "The Great Recession ended in 2009."
+    },
+    {
+        "instruction": "Name one baroque art style.",
+        "input": "",
+        "output": "One baroque art style is tenebrism."
+    },
+    {
+        "instruction": "Which river passes through Paris?",
+        "input": "",
+        "output": "The river that passes through Paris is the Seine."
+    },
+    {
+        "instruction": "Detect any spelling errors in the following word.",
+        "input": "beautifull",
+        "output": "The word \"beautifull\" contains a spelling error. The correct spelling is \"beautiful\"."
+    },
+    {
+        "instruction": "What is the first line of the Universal Declaration of Human Rights?",
+        "input": "",
+        "output": "The first line of the Universal Declaration of Human Rights is \"All human beings are born free and equal in dignity and rights.\""
+    },
+    {
+        "instruction": "Describe the paperclip maximizer problem.",
+        "input": "",
+        "output": "The paperclip maximizer problem is a thought experiment which explores the potential danger posed by advanced Artificial Intelligence systems that are assigned a goal that could conflict with human interests. It suggests what might happen if an AI is programmed with a single goal\u2014to maximize the manufacture of paperclips\u2014regardless of the consequences to humans."
+    },
+    {
+        "instruction": "Describe a good strategy to promote a blog post.",
+        "input": "",
+        "output": "A good strategy to promote a blog post is to share it on social media, optimize it for search engines, use appropriate hashtags, and include it in email newsletters. Additionally, it is important to connect with influencers, associates, and other bloggers in your industry to get additional exposure."
+    },
+    {
+        "instruction": "Generate a the first line of a poem",
+        "input": "",
+        "output": "A whisper of spring in the winter's chill night,"
+    },
+    {
+        "instruction": "Add the missing detail to the application form.",
+        "input": "Name: John Smith\nPhone:",
+        "output": "Name: John Smith\nPhone: (123) 456-7890"
+    },
+    {
+        "instruction": "Write a dialog between two people",
+        "input": "Person 1: Hey!",
+        "output": "Person 1: Hey!\nPerson 2: Hi, how can I help you?\nPerson 1: Do you know where I can find a good place to eat around here?\nPerson 2: Sure! I know a great pizza place just a few blocks away. Would you like to go check it out?\nPerson 1: That sounds great! Let's go!"
+    },
+    {
+        "instruction": "Conduct sentiment analysis on the text",
+        "input": "I love this product!",
+        "output": "Sentiment: Positive"
+    },
+    {
+        "instruction": "Create an input for this instruction",
+        "input": "Find the sum of the first ten natural numbers",
+        "output": "Input: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10"
+    },
+    {
+        "instruction": "Start a conversation about space exploration.",
+        "input": "",
+        "output": "I'm really excited about space exploration! We've been able to explore some great places so far, like the Moon, Mars, and even farther outer planets. What do you think is the most interesting thing we've been able to discover in space?"
+    },
+    {
+        "instruction": "Name a famous person who influenced the human rights movement.",
+        "input": "",
+        "output": "Martin Luther King Jr. is a famous person who had a major influence on the human rights movement. He was a leader in the civil rights movement, working to end racial discrimination and fight for racial equality."
+    },
+    {
+        "instruction": "Scramble the letters 'rocisex' and name a word",
+        "input": "",
+        "output": "The word is \"exorcis\"."
+    },
+    {
+        "instruction": "List three possible strategies to deal with depression.",
+        "input": "",
+        "output": "Three possible strategies for dealing with depression are: 1) talk therapy, which involves meeting with a mental health professional to discuss your thoughts, feelings and behaviours; 2) medication, which can help regulate your mood; 3) exercise, which has been linked to improving mood and relieving stress."
+    },
+    {
+        "instruction": "Explain what quantum mechanics is.",
+        "input": "",
+        "output": "Quantum mechanics is a scientific theory that describes the behavior of matter and energy at the subatomic level. It includes concepts such as wave-particle duality and Heisenberg's Uncertainty Principle, which states that it is impossible to know with absolute certainty both the position and the momentum of a particle at the same time."
+    },
+    {
+        "instruction": "Arrange the words 'journalism, politics and law' in alphabetical order.",
+        "input": "",
+        "output": "The words arranged in alphabetical order are: Journalism, Law, and Politics."
+    },
+    {
+        "instruction": "Add the following items 'Acer laptop, Philips iron, LG refrigerator' to shopping list.",
+        "input": "",
+        "output": "Shopping list updated: Acer laptop, Philips iron, LG refrigerator."
+    },
+    {
+        "instruction": "Calculate the median of the list of numbers (6, 3, 11, 2, 9).",
+        "input": "",
+        "output": "The median of the list of numbers (6, 3, 11, 2, 9) is 6."
+    },
+    {
+        "instruction": "Discuss the effect of Covid-19 pandemic on different sectors of economy.",
+        "input": "",
+        "output": "The Covid-19 pandemic has had a devastating effect on the global economy, with nearly all sectors of the economy being adversely impacted. Businesses of all sizes have had to shutdown or scale back operations, leading to massive job losses and a drastic decline in consumer spending. Industries such as hospitality, retail, and travel have been particularly hard hit. In addition, the pandemic has led to a shift in global supply chains, with countries looking to diversify their sources of goods and services."
+    },
+    {
+        "instruction": "Generate an example of creative writing about the given topic.",
+        "input": "The beauty of autumn",
+        "output": "The sun rose in the autumn sky, its rays a subtle orange like the leaves of the trees that had begun to turn. The gentle breeze carried the sweet aroma of cinnamon and spices, reminding me of all the years spent making pies and hot drinks for the cold autumn nights. Everywhere I looked the landscape was filled with the vibrant colors of red, orange, and yellow, a reminder that summer was coming to an end. Yet it created such beauty, such serenity that my heart was refreshed and my spirit was renewed. It was a reminder that life was not just made up of seasons of endings and goodbyes, but of beauty, even when winter was coming."
+    },
+    {
+        "instruction": "Identify the word in all capital letters.",
+        "input": "The TRUCK drove by the HOUSE.",
+        "output": "TRUCK"
+    },
+    {
+        "instruction": "Give three proverbs related to the input.",
+        "input": "Love",
+        "output": "1. Love conquers all. \n2. Love makes the world go round. \n3. Love knows no bounds."
+    },
+    {
+        "instruction": "Answer the question based on common sense and your knowledge.",
+        "input": "What is the name of the capital city of Peru?",
+        "output": "The capital city of Peru is Lima."
+    },
+    {
+        "instruction": "Generate an example of a physical object using adjectives.",
+        "input": "",
+        "output": "A large, heavy, black briefcase with gold trim."
+    },
+    {
+        "instruction": "Calculate the sum of the provided integers.",
+        "input": "1, 3, 5",
+        "output": "9"
+    },
+    {
+        "instruction": "Generate a recipe for a healthy lunch in 150 words or less.",
+        "input": "",
+        "output": "Start with one cup of cooked quinoa. To the quinoa, add 3 ounces of cooked chicken breast, \u00bd cup of canned black beans, \u00bd cup of fresh or frozen corn, and a tablespoon of olive oil. Heat all ingredients until hot. Serve in a bowl and top with fresh spinach leaves and tomatoes, along with cilantro and lime juice. Finally, enjoy with a glass of cold cucumber water infused with mint. This lunch has a balance of protein, carbohydrates, and healthy fats. It is quick and easy to make and is a great way to get in multiple nutrients in one meal. Enjoy!"
+    },
+    {
+        "instruction": "Summarize the steps in creating an e-commerce website.",
+        "input": "",
+        "output": "Creating an e-commerce website involves several steps including setting up the domain name, choosing a hosting provider, installing the requisite software, designing the site, setting up and configuring a payment gateway, and setting up a content management system. Additionally, you will need to pick a template, add product information and images, ensure the checkout process is secure, optimize the website for SEO, and set up customer service options. Once these steps are complete, your website is ready to go live!"
+    },
+    {
+        "instruction": "List the three types of clouds and give an example of each.",
+        "input": "",
+        "output": "The three types of clouds are cumulus, stratus, and cirrus. Cumulus clouds are large, fluffy, white puffs in the sky. An example would be a white, fluffy cloud on a sunny day. Stratus clouds are wide, flat layers of cloud. An example would be a sheet of low clouds that often covers the sky on a grey, hazey day. Cirrus clouds are thin and wispy, generally found high in the sky. An example would be the thin, high clouds often seen near sunset."
+    },
+    {
+        "instruction": "Calculate the cost of a product if the original price is $125 and the discount is 15%.",
+        "input": "",
+        "output": "The cost of the product with a 15% discount would be $106.25."
+    },
+    {
+        "instruction": "Create an algorithm for a self-driving car to follow the road and stop at red lights.",
+        "input": "",
+        "output": "The algorithm for a self-driving car to follow the road and stop at red lights should include the following steps: First, the car should detect lane markings and boundaries on the roadway, as well as any traffic lights. Then, the car should determine its current speed and adjust the speed accordingly based on the speed limit or other conditions. Next, the car should process any other road signs that it can see, such as stop signs, yield signs, and road roundabouts. Finally, if the car detects a red light, it should immediately slow down and stop until the light turns green."
+    },
+    {
+        "instruction": "Explain the steps in registering a domain name.",
+        "input": "",
+        "output": "Registering a domain name requires a few steps. First, decide on a domain name that is both appropriate and memorable. Then, search for the domain through a domain registrar. Once you have found an available domain name, register the domain by providing your contact and payment information. Next, decide which domain hosting service you will use to host your domain. Finally, update the name servers associated with the domain to point to your domain hosting provider and configure additional settings such as domain forwarding, email forwarding, and subdomains."
+    },
+    {
+        "instruction": "Name five organizations that work to promote human rights and briefly explain their mission.",
+        "input": "",
+        "output": "Five organizations that work to promote human rights are Amnesty International, Human Rights Watch, Oxfam, the UN Refugee Agency, and the International Red Cross and Red Crescent. Amnesty International works to protect individuals from violations of civil, political, and other human rights. Human Rights Watch researches and documents human rights abuses in over 90 countries. The UN Refugee Agency works to protect and assist refugees and provide humanitarian assistance. Oxfam works to combat poverty, hunger, and injustice around the world. The International Red Cross and Red Crescent works to provide emergency assistance and humanitarian aid in conflict zones and during natural disasters."
+    },
+    {
+        "instruction": "Write a sentence that completes the sentence \"I look forward to....",
+        "input": "",
+        "output": "I look forward to new experiences and opportunities that life has to offer."
+    },
+    {
+        "instruction": "Create an example of using an analogy to explain the concept of microaggressions.",
+        "input": "",
+        "output": "Microaggression are similar to a bully throwing snowballs, except instead of snowballs, the bully is throwing words and subtle actions. While the words and actions may seem small, they can still lead to lasting psychological damage, just like small snowballs can bruise or hurt someone."
+    },
+    {
+        "instruction": "Is it ethical to splice genes of animals?",
+        "input": "",
+        "output": "There is no clear consensus on the ethics of gene splicing. Some argue that animal suffering should be minimized and gene splicing can lead to species that have a better quality of life. Others contend that gene splicing interferes with the natural order and takes away essential freedoms from animals. Ultimately, whether it is ethical or not depends on the specific case, with considerations made for the welfare of the animals involved and for the potential consequences for the species."
+    },
+    {
+        "instruction": "Name three types of animals found in grasslands.",
+        "input": "",
+        "output": "Three types of animals found in grasslands are antelope, gazelles, and zebras."
+    },
+    {
+        "instruction": "Describe poverty in the richest nation in the world",
+        "input": "",
+        "output": "Despite the wealth in the richest nation in the world, poverty remains pervasive. Even in the wealthiest countries, there are people who struggle to make ends meet, who are unable to secure adequate housing and healthcare, and who are unable to access adequate educational opportunities. Poverty is a complex issue, but it disproportionately affects women, racial and ethnic minorities, individuals with disabilities, and other historically marginalized groups."
+    },
+    {
+        "instruction": "Analyze the line \"After all, we're only human\"",
+        "input": "After all, we're only human",
+        "output": "This line suggests that humanity is imperfect and has limitations. That despite our best effort or intentions, mistakes or failures are inevitable. That we can only expect so much of ourselves. It also implies that we have to take a compassionate view of ourselves and our mistakes, understanding that we are only human and cannot always expect perfection."
+    },
+    {
+        "instruction": "Name 3 methods of preventing injury while exercising",
+        "input": "",
+        "output": "1. Warm up and cool down properly.\n2. Stretch and foam roll before and after your workout.\n3. Stay hydrated and monitor your fatigue levels.\n4. Use proper form during your workouts. \n5. Listen to your body and don't push yourself too hard.\n6. Have a spotter when lifting heavy weights.\n7. Pace yourself and start with lighter exercises before progressing to harder ones. \n8. Wear appropriate clothing and shoes."
+    },
+    {
+        "instruction": "Design a website with a user-friendly interface",
+        "input": "",
+        "output": "When designing a website with a user-friendly interface, certain principles should be kept in mind. The website should be organized in a logical manner and should provide clear navigation. Content should be concise and readable, and the overall design should be clean and uncluttered. Pages should load quickly, and stand out features should be highlighted in a visually engaging way. Forms should be concise, and input should be clearly labeled so that users know how to properly fill them out. Additionally, the website should be designed to be responsive so that it can be viewed on all devices."
+    },
+    {
+        "instruction": "Identify 3 methods for reducing stress",
+        "input": "",
+        "output": "1. Exercise regularly to reduce stress hormones and release endorphins. \n2. Practice mindfulness and meditation to clear your mind and relax. \n3. Spend time with friends and family to alleviate loneliness and anxiety. \n4. Get enough quality sleep to restore your energy and alertness.\n5. Take up a hobby that you enjoy to create a constructive outlet. \n6. Eat nutritious meals to promote a healthy mind and body.\n7. Make time for yourself to think and reflect."
+    },
+    {
+        "instruction": "Design a bike with a stable center of gravity",
+        "input": "",
+        "output": "A bike with a stable center of gravity should be designed with the frame and saddle as low to the ground as possible. The frame should also be wide and sturdy to provide a stable base. The gears and brakes should also be placed offering the most balanced weight distribution. The wheel size should be appropriate for the rider\u2019s weight and height, while also ensuring that the center of gravity is low to the ground."
+    },
+    {
+        "instruction": "We need to find the area of a square given the side length.",
+        "input": "Side length: 6",
+        "output": "The area of the square is 36."
+    },
+    {
+        "instruction": "Explain what is the meaning of democracy.",
+        "input": "",
+        "output": "Democracy is a form of government in which the citizens exercise power by voting. It is a system of rule of the majority, in which all eligible citizens have an equal say in the decisions that affect their lives. In a democracy, all eligible citizens have the right to vote, to run for office, and to express their opinions and ideas on matters of policy and law."
+    },
+    {
+        "instruction": "Write a description of a personal experience with a difficult situation.",
+        "input": "",
+        "output": "I recently faced a difficult situation when I had to make a decision that could potentially harm someone I care about. Though I had thought about the consequences ahead of time, it was still a difficult decision to make. I weighed the consequences carefully and ended up going with my gut feeling and hoping that it would be the right decision. In the end, things worked out and thankfully, I was able to find a solution that would work for everyone."
+    },
+    {
+        "instruction": "What is the title of the longest novel ever written?",
+        "input": "",
+        "output": "The longest novel ever written is \"The Blah Story\" by Nigel Tomm."
+    },
+    {
+        "instruction": "Generate code to create a matrix in Python.",
+        "input": "",
+        "output": "my_matrix = [[1,0,0], [0,1,0], [0,0,1]]"
+    },
+    {
+        "instruction": "Describe a process to form an ice sculpture.",
+        "input": "",
+        "output": "The process of forming an ice sculpture typically involves freezing water and shaping it into the desired shape by carving it with an ice chisel. The ice sculpture can be further decorated with additional carvings, airbrushing, and even color-tinted lights."
+    },
+    {
+        "instruction": "Decide which two adjacent countries share a water border.",
+        "input": "India and Pakistan",
+        "output": "Yes, India and Pakistan share a water border."
+    },
+    {
+        "instruction": "Write an argumentative essay on why technology is necessary in the workplace.",
+        "input": "",
+        "output": "In today's fast-paced and interdependent world, technology is essential in allowing businesses to remain competitive and efficient. Technology helps businesses save time and money by automating processes and streamlining workflow. It reduces manual labour, which is often time consuming and inefficient, and replaces it with advanced electronic tools that are far more accurate and reliable. Technology also increases employee engagement and productivity by providing employees with a variety of tools and resources to help them carry out their tasks effectively and efficiently. In addition, technology helps businesses stay relevant and competitive by providing them innovative ways to market and reach their customers. Furthermore, technology has enabled businesses to increase their global reach, allowing them to make connections with customers around the world. All of these factors point to the undeniable fact that technology is a necessary component in any successful business environment."
+    },
+    {
+        "instruction": "Generate a story about a person who is surprised to learn about the adventures of their stuffed animal.",
+        "input": "",
+        "output": "John was just a normal kid. He had a stuffed elephant from his grandmother and loved it like it was a member of the family. Every night, John would tuck the elephant in with him and talk about his day with it. \nOne day, John was surprised to discover that his elephant had gone out on an adventure of its own. As it turned out, some of the other stuffed animals in his room had banded together and gone off on an exploration of the town. They had been gone all day, gathering ice cream and stories, and John was delighted to hear all of the tales when they finally returned. From that day on, John was never quite the same. He seemed to believe that anything was possible and eagerly awaited the next adventure he and his elephant would go on."
+    },
+    {
+        "instruction": "Generate a hashtag for a celebrity fashion brand.",
+        "input": "",
+        "output": "#FabulousFashionBy______"
+    },
+    {
+        "instruction": "Explain the process of photosynthesis in 3 sentences or less.",
+        "input": "",
+        "output": "Photosynthesis is the process by which plants use sunlight, carbon dioxide, and water to create oxygen and energy. It begins with sunlight being absorbed by plant chloroplasts, which converts the energy into usable chemical energy. This energy is then used to combine water and carbon dioxide molecules to create glucose, which is the plant's food source, and oxygen is released as a by-product."
+    },
+    {
+        "instruction": "Write an algorithm to swap the first and last characters in a string.",
+        "input": "hello",
+        "output": "Step 1: Store the first and last letters in separate variables.\nStep 2: Replace the first letter with the last letter.\nStep 3: Replace the last letter with the stored first letter.\nStep 4: Return the final string."
+    },
+    {
+        "instruction": "Compute the average of five numbers.",
+        "input": "3, 5, 10, 12, 17",
+        "output": "Average = (3 + 5 + 10 + 12 + 17) / 5 = 9.6"
+    },
+    {
+        "instruction": "State the name and properties of the law of conservation of energy.",
+        "input": "",
+        "output": "The law of conservation of energy states that energy can neither be created nor destroyed, and can only be transformed from one form to another. This means that the total energy within a system remains the same over time, and is not affected by any processes the system may undergo."
+    },
+    {
+        "instruction": "Tell me the unit for electric current.",
+        "input": "",
+        "output": "The SI unit for electric current is the ampere (A)."
+    },
+    {
+        "instruction": "Devise a way to making a paper clip without using scissors.",
+        "input": "",
+        "output": "You can make a paper clip by bending a metal wire backwards and looping it over itself."
+    },
+    {
+        "instruction": "Why is the boiling point of water higher at higher altitudes?",
+        "input": "",
+        "output": "The boiling point of water is higher at higher altitudes because the atmospheric pressure is lower. Therefore, it takes less energy to evaporate water molecules at a given temperature, resulting in a higher boiling point."
+    },
+    {
+        "instruction": "From the given three options, select the one most relevant to the given input.",
+        "input": "Well-known computer networking protocols\nA) IPv6 \nB) HTTP \nC) UDP",
+        "output": "A) IPv6"
+    },
+    {
+        "instruction": "Visualize the given data",
+        "input": "A list of countries with the highest number of Covid-19 cases ranked by population:\nChina, USA, India, Russia, Brazil, UK",
+        "output": "<graph of Covid-19 Cases by Population>"
+    },
+    {
+        "instruction": "Complete the following code to print the sum of two numbers",
+        "input": "a = 5\nb = 10\nprint(",
+        "output": "a = 5\nb = 10\nprint(a + b)"
+    },
+    {
+        "instruction": "Make an upvote/downvote system for a comment board",
+        "input": "",
+        "output": "The upvote/downvote system should allow users to upvote and downvote comments on a comment board. This can be implemented by adding a \"like\" and \"dislike\" button to each comment, allowing users to upvote or downvote it by clicking the respective buttons."
+    },
+    {
+        "instruction": "What are the initials of the United Nations?",
+        "input": "",
+        "output": "The initials of the United Nations are \"UN\"."
+    },
+    {
+        "instruction": "Find the average of 6, 2, 10, and 12",
+        "input": "",
+        "output": "The average of 6, 2, 10, and 12 is 8."
+    },
+    {
+        "instruction": "Create an online advertisement that promotes a new type of sustainable seafood product.",
+        "input": "Seafood caught in a dolphin-friendly net",
+        "output": "Seafood lovers, it's time to make a difference! Try our new sustainable seafood product\u2014seafood caught in a dolphin-friendly net. Enjoy the same great taste, with the added bonus of knowing you are protecting the environment. Buy today and make the switch to sustainable eating."
+    },
+    {
+        "instruction": "Write a poem about your best friend.",
+        "input": "",
+        "output": "My dearest friend, you shine so bright,\nA light in my life that never fades.\nYou bring such joy in the darkest nights,\nLike sunbeams dancing through the shade.\n\nYou laugh with me and ask me questions,\nYour empathy like a gentle hand.\nWe'll talk for hours and you'll listen,\nJust like a loyal, loving friend.\n\nYou have my back and I will too,\nI'd do anything for you.\nNo matter what life may bring,\nI'll always be here for you my friend."
+    },
+    {
+        "instruction": "Discuss the role of technology in modern day education.",
+        "input": "",
+        "output": "Technology is playing an increasingly important role in modern day education. From online courses to virtual classrooms, technology has enabled students to access a wide range of courses from anywhere around the world. It has allowed for the delivery of different levels of education and offered greater flexibility to students who have difficulty attending in-person classes due to time constraints, financial constraints, or other personal issues. Technology also has enabled students to collaborate using online tools, giving students improved access to meaningful, real-world experiences."
+    },
+    {
+        "instruction": "Would it be possible to build a machine that learns like a human?",
+        "input": "",
+        "output": "Yes, it is possible to build a machine that learns like a human. Recent advancements in artificial intelligence have made it possible for machines to learn from their environment just like humans do. The machine can then use the acquired skills and knowledge to solve problems and complete tasks that were previously impossible for machines to do."
+    },
+    {
+        "instruction": "What is gender inequality?",
+        "input": "",
+        "output": "Gender inequality is the unequal treatment of individuals based on their gender. It can manifest itself in many forms, from wage gaps to a lack of access to education and healthcare. It is one of the most pervasive social issues in the world today, and can affect people of all genders."
+    },
+    {
+        "instruction": "Generate a list of ten things a new mom should do after giving birth.",
+        "input": "",
+        "output": "1. Rest and take care of yourself. \n2. Stay hydrated and feed yourself healthy meals. \n3. Find ways to bond with the baby. \n4. Develop a supportive network of family and friends. \n5. Take time to enjoy the baby. \n6. Care for your postpartum body. \n7. Communicate with your partner. \n8. Keep track of the baby's development. \n9. Make time for other activities. \n10. Seek help and advice when you need it."
+    },
+    {
+        "instruction": "How do computers \"learn\"?",
+        "input": "",
+        "output": "Computers can \"learn\" by using artificial intelligence algorithms that look for patterns in data. This data is then used to make predictions about future outcomes. By taking in new data, a computer can continually refine the predictions it makes and learn from the data. This process is what enables computers to tackle increasingly complex tasks."
+    },
+    {
+        "instruction": "Write a descriptive paragraph about a tree in the forest in the fall.",
+        "input": "",
+        "output": "In the forest, a single tree stands tall amongst the others. The leaves on its branches are a brilliant array of oranges, reds, and yellows; in the autumn sun they seem to glow. A slight wind rustles the leaves and they shimmer like sparks, as if the tree is warning of a storm. The trunk of the tree is strong, and its bark is worn with age and bark beetle scars. Filled with life and rooted in the ground, its spirit is vibrant and strong."
+    },
+    {
+        "instruction": "Generate a content for a children's story for 3 to 5 year olds about a little girl meeting a robot",
+        "input": "",
+        "output": "Once upon a time, there was a little girl named Amber. She was very curious and adventurous and loved learning new things. One day, while playing in the park, Amber made an amazing discovery - a robot! \n\nShe was amazed by the robot's bright lights, whirring sound and its shiny metal body. She asked the robot all sorts of questions but the robot kept silent, it didn't seem to understand any of Amber's questions. Amber got a bit disappointed but then had an idea. \n\nShe ran back home and grabbed some apples, oranges and other goodies and took them back to the park to share with the robot. She gave the robot the treats and the robot finally came to life, smiling, and even answering some of Amber's questions! They talked and talked until the sun set and it was time for Amber to go home. She left feeling very happy that she had made a new friend. \n\nThe next day and every day after, Amber visited the robot, bringing it more treats, and learning more and more about the robot's world. They were the best of friends."
+    },
+    {
+        "instruction": "Generate a response to the following statement using no more than 100 words",
+        "input": "I can't believe they're making us do this project.",
+        "output": "It can definitely be frustrating when you're given a project you don't agree with. It might help to think of this project as an opportunity to learn and grow. While it's understandable to feel overwhelmed, there could be some positives to come out of this. Maybe you'll learn new skills, come up with creative solutions, or even make a few personal connections with your team members. That way, when you look back on this project, you'll see it as a learning experience rather than a drag."
+    },
+    {
+        "instruction": "Generate a fake news article about the current political situation",
+        "input": "",
+        "output": "Leaders in Washington have been battling over a controversial new bill that would dramatically shift the power structure across the country. Tensions have been on the rise since the bill was introduced last month, with each side unwilling to back down and compromise. Now, sources within Washington are suggesting that the bill has a much bigger agenda behind it and could be a massive power grab. \n\nThe bill, named the \"American Opportunity Act\" would expand voting rights, lower taxes, and increase regulations on large businesses. Critics of the bill have said that it goes too far and would infringe on the rights of taxpayers and businesses, while supporters say that it is necessary to ensure that everyone gets a fair chance. \n\nMany in Washington are worried that the bill is a thinly veiled attempt at a takeover of the government by certain individuals. They fear that the bill would open the door to unchecked power and give those in power a way to push through their own agenda, regardless of the wishes of the public. \n\nAt this point, it's unclear what the fate of the bill is, but it's possible that it will become a major political battle in the coming months."
+    },
+    {
+        "instruction": "Generate a sentence to describe the benefit of using artificial intelligence.",
+        "input": "",
+        "output": "Using artificial intelligence can help us make better decisions and improve efficiency."
+    },
+    {
+        "instruction": "Create a catchy phrase that can be used to advertise modern technology.",
+        "input": "",
+        "output": "transform your life with the power of modern technology!"
+    },
+    {
+        "instruction": "Calculate the value of the expression x2 - 3x + 5 when x =7.",
+        "input": "",
+        "output": "9"
+    },
+    {
+        "instruction": "Convert the kilometers for the following distance into miles.",
+        "input": "62 km",
+        "output": "38.5 miles"
+    },
+    {
+        "instruction": "Suggest a topic for a research paper about artificial intelligence.",
+        "input": "",
+        "output": "The Impact of Artificial Intelligence on Society and Politics."
+    },
+    {
+        "instruction": "Write a poem about a spaceship exploring the universe.",
+        "input": "",
+        "output": "A spacecraft takes a journey through the stars\nExploring strange and unknown lands\nTravelling faster than light while time stands still\nLeaving its family forever behind\n\nThe alien crew prepare themselves with care\nFor wonders they have never seen\nLeaving the darkness of their home, they venture out\nTo explore the galaxies far and wide\n\nThe darkness of the night, lit up by the stars\nNever seen yet as bright\nThe great orbit around the worlds, moving on\nTo explore the galaxies beyond\n\nFrom planet to planet, and star to star\nThe crew discover more each day\nThe mysteries of the universe, finally unlocked\nBy this crew on adventurous way."
+    },
+    {
+        "instruction": "Create a list of 5 important inventions made during the Industrial Revolution",
+        "input": "",
+        "output": "- Steam engine\n- Cotton gin\n- Telegraph \n- Locomotive \n- Steel production"
+    },
+    {
+        "instruction": "Rearrange the text to create an effective story",
+        "input": "Once upon a time there was a strange creature that lived deep in the forest. It had two heads, four eyes and a pair of wings.\n\nThe creature was rarely seen and the villagers were curious about it and what it could do.",
+        "output": "Once upon a time, in a deep and mysterious forest, there lived a strange creature that rarely ventured out into the open. Its two heads had four eyes, and on its back were two wings. The villagers were curious about this creature and wondered what kind of powers it possessed. \n\nOne day, a brave soul ventured into the forest in search of the creature. Despite warnings and fears of the unknown, they pressed on, determined to find out more about this mysterious being.\n\nWhen they arrived at the deepest part of the forest, they finally laid eyes upon the legendary creature. They were amazed at its beauty and power, and although they were a bit scared, they could not help but be mesmerised by its presence.\n\nThe brave soul courageously approached the creature, and although it did not move or make a sound, the mysterious being seemed to understand the villager\u2019s need to find out more.\n\nThe villager and the creature began to talk, and after many hours, the creature shared its secrets with the villager. The villager learned much from the creature, and when it was time to leave, the villager thanked the creature, and then made their way back to the village. \n\nThe mysterious creature remained in the forest, its secrets safe for the time being. The villager, however, took with them an understanding that would stay with them for the rest of their days."
+    },
+    {
+        "instruction": "Generate a list of 5 potential threats to digital security",
+        "input": "",
+        "output": "- Phishing\n- Malware \n- Social engineering\n- Unsecured networks\n- Unpatched vulnerabilities"
+    },
+    {
+        "instruction": "Determine the type of word in the bolded text in the sentence.",
+        "input": "The monkey ate the banana hungrily.",
+        "output": "Adverb (hungrily)"
+    },
+    {
+        "instruction": "Compose a short story about a girl who discovers a mysterious artifact.",
+        "input": "",
+        "output": "Once upon a time, there was a girl named Sarah who lived in a small town nestled in the mountains. One day while exploring around her town, she stumbled upon a strange, ancient-looking artifact. She was mesmerized by it\u2019s intricate designs and shapes and decided to take it home. When she arrived home, she decided to research it to discover where it had come from and why it was in the middle of the woods. She eventually discovered that it was a piece of an ancient civilization from thousands of years ago. She was amazed at her discovery and even more intrigued by the potential secrets it may hold."
+    },
+    {
+        "instruction": "Compute the following equation: 20 + 5 + 7 - 4",
+        "input": "",
+        "output": "28"
+    },
+    {
+        "instruction": "Rearrange the following words to make a meaningful sentence: \ncandidates are best the who",
+        "input": "",
+        "output": "The best candidates who are."
+    },
+    {
+        "instruction": "Supply a simple test case to test this code snippet.",
+        "input": "def add_numbers(num_1, num_2):\n    return num_1 + num_2",
+        "output": "Test case: add_numbers(2, 4) -> Expected output: 6."
+    },
+    {
+        "instruction": "Analyze the following data set and provide a brief description of the results.",
+        "input": "A survey was conducted asking 100 people if they prefer cats or dogs. Results:\nCats: 70\nDogs: 30",
+        "output": "The survey results indicate that 70% of people prefer cats, while 30% prefer dogs."
+    },
+    {
+        "instruction": "Make a list of questions about artificial intelligence.",
+        "input": "",
+        "output": "1. What are the potential applications of artificial intelligence? \n2. What areas of research are involved in artificial intelligence development? \n3. How is artificial intelligence being incorporated into business? \n4. What are the impacts of artificial intelligence on society? \n5. How much of a role will humans have in the future of artificial intelligence?"
+    },
+    {
+        "instruction": "Identify and explain the mistakes in this English sentence.",
+        "input": "I likes to cook.",
+        "output": "The sentence contains a mistake in grammar. The subject is \"I\" which is singular and the verb should be in the singular form, \"like\". Therefore, the correct sentence should be \"I like to cook.\""
+    },
+    {
+        "instruction": "Provide 5 examples of idiomatic expressions.",
+        "input": "",
+        "output": "1. Pulling someone's leg\n2. Bite off more than you can chew\n3. Sleep on it\n4. Pass with flying colors\n5. Put the cart before the horse"
+    },
+    {
+        "instruction": "Generate a list of drive-in activities.",
+        "input": "",
+        "output": "Drive-in activities could include watching movies at the drive-in cinema, dining outdoors with a view of the stars, going to a drive-in sports game, playing mini golf at a drive-in course, painting the night at a drive-in art show, getting take-out from a drive-thru restaurant, attending a drive-in concert, and attending car-themed events like car shows and car cruise-ins. Other ideas include playing road trip games during the drive, fishing at a drive-in fishing spot, having a picnic in a drive-in park, and going on nature walks at drive-in paths and trails."
+    },
+    {
+        "instruction": "Imagine a new app that allows people to get the best deals on groceries. What is the elevator pitch for this app?",
+        "input": "",
+        "output": "Introducing the Grocery Deals App - the ultimate tool to save you time and money when shopping for groceries. Quickly compare prices from all your local stores, find the best deals on the items you need, and save big without having to visit different stores. With Grocery Deals App, you can get the most for your money and shop smarter."
+    },
+    {
+        "instruction": "Given the following objects, produce a short story.",
+        "input": "Red umbrella, 4 kittens, an old mansion",
+        "output": "Once upon a time, there was a young girl who dreamed of a life full of adventure and excitement. One day, while walking through a nearby forest, she stumbled upon an old and mysterious mansion. When she went inside, she found four adorable little kittens roaming around inside. Taking pity on the kittens, she slipped a red umbrella above them to keep them safe from the rain. From that day forward, they became friends and the girl was filled with joy from their companionship. They shared many incredible adventures together and the girl was finally living the life she always dreamed of."
+    },
+    {
+        "instruction": "Create a blog post about the use of social media in marketing.",
+        "input": "",
+        "output": "Social media has become an integral part of marketing in the digital age. Companies must understand how to leverage this powerful platform in order to increase their reach and engagement with their target audience. While utilizing social media for marketing may be intimidating at first, when done correctly, it can provide tremendous benefits in terms of sales, customer loyalty, and brand awareness. Businesses can use social media to showcase their products and services, create relationships with customers, and build an online presence. Social media also provides an opportunity for companies to receive feedback from their customers and to monitor conversations about their brand. By leveraging the power of social media, businesses can stay connected with their target audience and succeed in their marketing efforts."
+    },
+    {
+        "instruction": "Edit the sentence and check for misspelled words.",
+        "input": "Walking the dogs was one of Jim's favorit excercises",
+        "output": "Walking the dogs was one of Jim's favorite exercises"
+    },
+    {
+        "instruction": "What is the yearly rate of inflation for the year 2018?",
+        "input": "",
+        "output": "The yearly rate of inflation for 2018 was 2.44%."
+    },
+    {
+        "instruction": "Rewrite the sentence in new words while preserving its meaning.",
+        "input": "I was so happy to see that the new restaurant had finally opened.",
+        "output": "I was delighted to discover that the new eatery had opened up at last."
+    },
+    {
+        "instruction": "Output a summary of the paragraph.",
+        "input": "Powerful and yet surprisingly easy to use, cloud computing has revolutionised business practices, offering businesses a wide range of scalable services that are delivered effortlessly over the internet. It has become increasingly popular in recent years due to its low cost and scalability, its scalability making it ideal for businesses of any size. Additionally, cloud computing provides a variety of resources and applications that can be used for tasks ranging from data analysis to customer management.",
+        "output": "Cloud computing has grown rapidly in popularity, offering businesses a cost-effective way to access scalable services over the internet. It is used for a range of tasks from data analysis to customer management, making it suitable for businesses of all sizes."
+    },
+    {
+        "instruction": "Find the percentage of the sentence that is made up of nouns.",
+        "input": "My family had much fun hiking at the park, riding on the rollercoaster, and swimming in the lake.",
+        "output": "Fifty percent (50%) of the sentence is made up of nouns."
+    },
+    {
+        "instruction": "Create a list of 5 core values of the United Nations.",
+        "input": "",
+        "output": "The core values of the United Nations are:\n\n1. Respect for human rights and fundamental freedoms of all; \n2. Promotion of international justice and the rule of law; \n3. Preservation of global peace and security;\n4. Support for sustainable development; \n5. Commitment to promoting social progress and better standards of living for all."
+    },
+    {
+        "instruction": "What roles does the Prime Minister of India play?",
+        "input": "",
+        "output": "The Prime Minister of India plays a variety of roles. He or she is the leader of the executive branch of the government and the head of the Council of Ministers. The Prime Minister heads the party or coalition with the largest number of seats in the Lok Sabha. The Prime Minister is responsible for appointing ministers to the council of ministers, allocating portfolios, and deciding on key policy matters. He or she is also the primary interlocutor with the President of India and foreign dignitaries. In addition, the Prime Minister has the power to summon and dissolve the Lok Sabha."
+    },
+    {
+        "instruction": "Create a list of 3 protection techniques that businesses should use against cyberattacks.",
+        "input": "",
+        "output": "Businesses should use the following techniques to protect against cyberattacks: \n\n1. Enable multi-factor authentication to restrict access to sensitive networks and data.\n2. Utilize application whitelisting to restrict access to certain applications and functions. \n3. Keep software up to date by installing updates and patches as soon as possible. \n4. Regularly back up data and encrypt any data stored on the cloud.\n5. Implement network segmentation to isolate valuable data.\n6. Utilize a secure web gateway to filter out malicious content on the web."
+    },
+    {
+        "instruction": "Compare and contrast the causes and consequences of World War I and World War II.",
+        "input": "",
+        "output": "World War I and World War II had both similar and distinct causes and consequences. \n\nSimilar causes of the two wars included growing nationalism, militarism, and imperialism, which all contributed to global tensions and rivalries between great powers. Additionally, both wars were caused in part by the system of alliances that existed among nations. \n\nThe consequences of both wars were also similar in that they led to an increase in the power of the influence of the United States and the Soviet Union and an emphasis on the importance of international organizations such as the League of Nations and the United Nations. Furthermore, both wars led to a greater degree of cooperation between nations in the form of economic and political institutions, international agreements, and mutual defense, and in both cases, the aftermath of the war saw a dramatic increase in human displacement.\n\nHowever, there were distinct differences in the effects of the two wars. World War I saw the end of the Ottoman and Austro-Hungarian empires, while World War II ended with the division of Germany into East and West. In addition, the advance of totalitarian regimes in the Soviet Union, Germany, and Italy in the aftermath of World War I gave rise to the political rivalry of the Cold War era, while the end of World War II saw a new era of international cooperation, as well as an effort to create a permanent peace."
+    },
+    {
+        "instruction": "What are the differences between the terms \"agent\" and \"organization\"?",
+        "input": "",
+        "output": "An agent is a person or entity that has been appointed to act on behalf of another person or entity. An agent may be a representative for a company, and can be empowered to make decisions and sign documents; agents are typically acting on the instructions of their principal.\n\nAn organization is a group that has been formed for a specific purpose. Organizations may be business-oriented, such as a company, partnership, or corporation, or may be non-profit, such as NGOs. Organizations are typically made up of multiple members, often consisting of more than one agent. Organizations are responsible for making decisions, enacting plans and policies, and carrying out operations."
+    },
+    {
+        "instruction": "Summarize the key ideas outlined in the given article.",
+        "input": "https://www.nytimes.com/2020/07/11/arts/wellness-at-home.html",
+        "output": "This article discusses how to create a wellness sanctuary at home to help reduce stress and promote wellbeing. First, it suggests creating an environment of physical comfort by items such as cozy furniture. It then recommends bringing nature into the home, such as with houseplants, and engaging in activities such as journaling, yoga and meditation. The article also suggests taking advantage of aromatherapy, filling your home with calm music, and getting creative with redecorating. Ultimately, the article encourages creating a home sanctuary that provides relaxation and a sense of serenity, to help reduce stress and promote healthy living."
+    },
+    {
+        "instruction": "Write a short passage about the role of the World Health Organization.",
+        "input": "",
+        "output": "The World Health Organization (WHO) is a United Nations specialized agency responsible for promoting public health and providing technical assistance to countries around the world. The WHO\u2019s main functions are to direct international health within the United Nations\u2019 system, to promote the health of people worldwide, and to lead in the global response to health challenges by providing a platform for global collaboration. WHO works to improve public health by providing guidelines and instruments to support national health systems in responding to health crises as well as in undertaking preventive interventions targeted at reducing overall disease burden. The organization also plays an important role in coordinating the establishment of global health organizations and networks, promoting research and advocating in support of public health."
+    },
+    {
+        "instruction": "Analyze a provided sentence and identify the type of sentence. Output should be a sentence type (Ex: declarative).",
+        "input": "I enjoy playing football.",
+        "output": "Declarative sentence."
+    },
+    {
+        "instruction": "Generate a description of a book that takes place in a small rural town.",
+        "input": "",
+        "output": "Set in a small rural town, this book tells the story of a young couple struggling with their relationships amidst the backdrop of a close-knit community. With its stunning scenery and warm-hearted characters, this book paints a vivid picture of a place where people look out for each other and form strong bonds. From the mysterious stranger in town to the narrow cobblestone roads and cozy taverns, each scene is brought to life as the characters contend with the struggles of life and love."
+    },
+    {
+        "instruction": "Compare and contrast subjects given in the input.",
+        "input": "Painting and sketching",
+        "output": "Painting and sketching are both forms of art that have been used to create visual works of art. Although they share some similarities such as both requiring an artist's imagination to turn a blank canvas into a work of art, there are several key differences. Painting is done with a brush, while sketching is done with either a pen or pencil. Additionally, painting typically involves the use of multiple colors and layers to create the desired effect, whereas sketching requires only one color and is usually done in a single layer with minimal detail."
+    },
+    {
+        "instruction": "Generate a title for a news article about a new world record set in swimming.",
+        "input": "",
+        "output": "Swimmer Breaks World Record for Fastest Swimming Time"
+    },
+    {
+        "instruction": "List the steps to remove a stain from a fabric.",
+        "input": "",
+        "output": "Removing a stain from a fabric requires several steps. Firstly, identify the type of stain and select a cleaning product suitable for the fabric. Then, apply the cleaning solution directly to the stain and allow it to sit for several minutes. Once the stain has soaked up the cleaning product, gently scrub the stain with a soft brush or cloth in a circular motion. Finally, rinse the area with cool water and repeat the process as necessary until the stain has been completely removed."
+    },
+    {
+        "instruction": "Compose a limerick poem about your favorite hobby.",
+        "input": "",
+        "output": "There once was a hobby I did embrace\nIt gave me the chance to play my ace\nI delighted in crafting each day\nIt's kept me content in every way\nMy favorite pastime is scrapbooking grace."
+    }
+]
