@@ -892,6 +892,8 @@
   📄 [papers/Tree-Search-for-LLM-Agent-Reinforcement-Learning.pdf](papers/Tree-Search-for-LLM-Agent-Reinforcement-Learning.pdf)
 - [ ] **OpenClaw-RL: Train Any Agent Simply by Talking**
   📄 [papers/OpenClaw-RL-Train-Any-Agent-Simply-by-Talking.pdf](papers/OpenClaw-RL-Train-Any-Agent-Simply-by-Talking.pdf)
+- [ ] **DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale**
+  📄 [papers/DeepSeek-Elastic-Compute-DSec-A-Sandbox-Infrastructure-for-Effective-Agentic-Training-at-Scale.pdf](papers/DeepSeek-Elastic-Compute-DSec-A-Sandbox-Infrastructure-for-Effective-Agentic-Training-at-Scale.pdf)
 
 ### 12.7 Agent Evaluation and Benchmarking
 - [ ] **Agents' Last Exam**
